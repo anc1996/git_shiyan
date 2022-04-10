@@ -1,2 +1,3 @@
 num=100
-print(num)
+num2=200
+print(num+num2)
